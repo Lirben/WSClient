@@ -1,0 +1,14 @@
+C:\Data\Users\waerenbl\Documents\2. Personal\Equine\WSClient\WSClient\bin\Debug\WSClient.exe
+C:\Data\Users\waerenbl\Documents\2. Personal\Equine\WSClient\WSClient\bin\Debug\WebSocket4Net.dll
+C:\Data\Users\waerenbl\Documents\2. Personal\Equine\WSClient\WSClient\bin\Debug\WSClient.exe.config
+C:\Data\Users\waerenbl\Documents\2. Personal\Equine\WSClient\WSClient\bin\Debug\LibEquine.dll
+C:\Data\Users\waerenbl\Documents\2. Personal\Equine\WSClient\WSClient\bin\Debug\Newtonsoft.Json.dll
+C:\Data\Users\waerenbl\Documents\2. Personal\Equine\WSClient\WSClient\bin\Debug\LibEquine.pdb
+C:\Data\Users\waerenbl\Documents\2. Personal\Equine\WSClient\WSClient\bin\Debug\Newtonsoft.Json.xml
+C:\Data\Users\waerenbl\Documents\2. Personal\Equine\WSClient\WSClient\obj\Debug\WSClient.csprojResolveAssemblyReference.cache
+C:\Data\Users\waerenbl\Documents\2. Personal\Equine\WSClient\WSClient\obj\Debug\WSClient.frmMain.resources
+C:\Data\Users\waerenbl\Documents\2. Personal\Equine\WSClient\WSClient\obj\Debug\WSClient.Properties.Resources.resources
+C:\Data\Users\waerenbl\Documents\2. Personal\Equine\WSClient\WSClient\obj\Debug\WSClient.csproj.GenerateResource.Cache
+C:\Data\Users\waerenbl\Documents\2. Personal\Equine\WSClient\WSClient\obj\Debug\WSClient.exe
+C:\Data\Users\waerenbl\Documents\2. Personal\Equine\WSClient\WSClient\obj\Debug\WSClient.pdb
+C:\Data\Users\waerenbl\Documents\2. Personal\Equine\WSClient\WSClient\bin\Debug\WSClient.pdb
